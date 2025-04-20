@@ -15,6 +15,9 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
   - EXPERIENCIA_USUARIO.md: Documentación sobre la experiencia de usuario
   - GUIA_DE_DISENO.md: Guía de diseño para la aplicación
   - LevelUp AI.md: Descripción general del proyecto
+- Estructura inicial de carpetas:
+  - backend/
+  - frontend/
 
 ### Por hacer
 - Configuración del repositorio de GitHub
